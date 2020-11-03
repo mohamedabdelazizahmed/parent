@@ -23,4 +23,10 @@ Docker &Deploy
  - GET =>   http://localhost:8000/api/v1/users?provider=DataProviderX  => To Get data in DataProviderX 
  - GET =>   http://localhost:8000/api/v1/users?provider=DataProviderY  => To Get data in DataProviderY
  - GET =>   http://localhost:8000/api/v1/users?provider=DataProviderY&currency=usd  =>  You can filter together 
+ 
+
+![1](https://user-images.githubusercontent.com/16577068/97982720-de07dd00-1ddc-11eb-8928-12194f379131.PNG)
+![2](https://user-images.githubusercontent.com/16577068/97982722-df390a00-1ddc-11eb-8aa1-7d1696ceede4.PNG)
+![3](https://user-images.githubusercontent.com/16577068/97982712-dcd6b000-1ddc-11eb-9714-c09fa5adb5d2.PNG)
+
 
